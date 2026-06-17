@@ -185,17 +185,16 @@ eas build --profile production --platform android
 ## 📱 App Screens
 
 - 🏠 Home Screen
-- <img alt="Image" src="https://github.com/user-attachments/assets/94063e7b-b98c-4516-abcd-4178d4044eb4" /> 
-- ➕ Add Exercise
-- <img alt="Image" src="https://github.com/user-attachments/assets/a7a1afe7-f633-4fcd-be62-fef2d096f9f6" />
-- ✅ Completed Workouts
-- <img alt="Image" src="https://github.com/user-attachments/assets/d3c0da07-58bf-4d33-8745-02c53a4f7bdb" />
-- 💬 Motivational Quotes
-- <img alt="Image" src="https://github.com/user-attachments/assets/91ac1ec7-2a83-4ff8-84ed-4a9778f51078" />
-- 👨‍💻 About Developer
-- <img src="https://github.com/user-attachments/assets/389ef852-3572-4b84-9630-68e6a07d4f63" />
-- 🎨 **Modern UI** — Designed with the **LUNA color palette**
 - <img alt="Image" src="https://github.com/user-attachments/assets/32802a69-d95f-4281-bae7-758b8fb65ee0" />
+-<img width="576" height="1112" alt="Image" src="https://github.com/user-attachments/assets/54ac0a8f-3a2a-4cae-8d06-50f6adcec27f" />
+-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/f1df7b98-6de5-478b-8d85-914f155fbc79" />
+-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/e8d11ee7-d478-40a3-9fb8-f55b0f5f0891" />
+-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/d1f05a00-4851-4895-8815-0d66fc9b5bb1" />
+-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/3ce69ecd-98cf-4100-8aab-c29cab12e0f5" />
+-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/c9c0c685-7909-4c51-b571-c0326d992837" />
+-<img width="1151" height="1155" alt="Image" src="https://github.com/user-attachments/assets/2d492d59-9f81-4b65-bc0d-d4706481e4c7" />
+- 🎨 **Modern UI** — Designed with the **LUNA color palette**
+
 
 ---
 
