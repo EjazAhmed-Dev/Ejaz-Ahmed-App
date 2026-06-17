@@ -185,14 +185,13 @@ eas build --profile production --platform android
 ## 📱 App Screens
 
 - 🏠 Home Screen
-- <img alt="Image" src="https://github.com/user-attachments/assets/32802a69-d95f-4281-bae7-758b8fb65ee0" />
--<img width="576" height="1112" alt="Image" src="https://github.com/user-attachments/assets/54ac0a8f-3a2a-4cae-8d06-50f6adcec27f" />
--<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/f1df7b98-6de5-478b-8d85-914f155fbc79" />
--<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/e8d11ee7-d478-40a3-9fb8-f55b0f5f0891" />
--<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/d1f05a00-4851-4895-8815-0d66fc9b5bb1" />
--<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/3ce69ecd-98cf-4100-8aab-c29cab12e0f5" />
--<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/c9c0c685-7909-4c51-b571-c0326d992837" />
--<img width="1151" height="1155" alt="Image" src="https://github.com/user-attachments/assets/2d492d59-9f81-4b65-bc0d-d4706481e4c7" />
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/c228783b-5f2b-4676-99fb-828578c57860" />
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/15f307a0-77ef-4224-ba8d-4b14cfe5edc5" />
+<img width="1151" height="1155" alt="Image" src="https://github.com/user-attachments/assets/c6b566a2-d0d0-425b-a30c-ee7fd017b79d" />
+<img width="576" height="1112" alt="Image" src="https://github.com/user-attachments/assets/b515ae72-e6ac-4301-adf6-ce26ca9c003a" />
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/b1d2e23b-affe-407f-9600-9c79429f75ac" />
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/56caad17-8ae4-4025-8ad1-cf1303613014" />
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/fca78368-1e0a-4264-9e17-e6083ec830ac" />
 - 🎨 **Modern UI** — Designed with the **LUNA color palette**
 
 
