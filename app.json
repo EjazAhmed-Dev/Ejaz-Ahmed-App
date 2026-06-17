@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Ejaz Ahmed",
-    "slug": "Ejaz Ahmed",
+    "name": "Fitness App",
+    "slug": "fitness-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
