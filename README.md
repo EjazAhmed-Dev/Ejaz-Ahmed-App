@@ -185,12 +185,19 @@ eas build --profile production --platform android
 ## 📱 App Screens
 
 - 🏠 Home Screen
-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/c228783b-5f2b-4676-99fb-828578c57860" />
-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/15f307a0-77ef-4224-ba8d-4b14cfe5edc5" />
-<img width="1151" height="1155" alt="Image" src="https://github.com/user-attachments/assets/c6b566a2-d0d0-425b-a30c-ee7fd017b79d" />
-<img width="576" height="1112" alt="Image" src="https://github.com/user-attachments/assets/b515ae72-e6ac-4301-adf6-ce26ca9c003a" />
-<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/b1d2e23b-affe-407f-9600-9c79429f75ac" />
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/c228783b-5f2b-4676-99fb-828578c57860" 
+  
 <img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/56caad17-8ae4-4025-8ad1-cf1303613014" />
+
+<img width="576" height="1112" alt="Image" src="https://github.com/user-attachments/assets/b515ae72-e6ac-4301-adf6-ce26ca9c003a" />
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/15f307a0-77ef-4224-ba8d-4b14cfe5edc5" />
+
+<img width="1151" height="1155" alt="Image" src="https://github.com/user-attachments/assets/c6b566a2-d0d0-425b-a30c-ee7fd017b79d" />
+
+
+<img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/b1d2e23b-affe-407f-9600-9c79429f75ac" />
+
+
 <img width="576" height="1184" alt="Image" src="https://github.com/user-attachments/assets/fca78368-1e0a-4264-9e17-e6083ec830ac" />
 - 🎨 **Modern UI** — Designed with the **LUNA color palette**
 
